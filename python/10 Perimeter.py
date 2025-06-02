@@ -1,0 +1,5 @@
+num1=float(input("Enter first side: "))
+num2=float(input("Enter Second side: "))
+num3=float(input("Enter third side: "))
+num4=float(input("Enter forth side: "))
+print(f"Perimeter of rectangle is {num1+num2+num3+num4}")
